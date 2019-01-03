@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    James Taylor jason@git.. blah blah 
 # THANKS
 
     <name>
