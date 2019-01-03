@@ -16,5 +16,7 @@ some info on deploy
 
 ##How To Contribute
 
+PLEASE FORK THIS REPOSITORY AND ISSUE REQUEST FOR REVIEW
+
 ###Copyright
 stuff
