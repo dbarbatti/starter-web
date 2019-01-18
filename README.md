@@ -22,4 +22,5 @@ some info on deploy
 PLEASE FORK THIS REPOSITORY AND ISSUE REQUEST FOR REVIEW
 
 ###Copyright
+all rights reserved 
 stuff
