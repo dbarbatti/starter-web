@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work... a simple website...
 
 this is an example blah blah blah 
 more stuff for rebasing example... expanding line from myfeature branch 
-
+doing emergency 
 
 
 ## Purpose
